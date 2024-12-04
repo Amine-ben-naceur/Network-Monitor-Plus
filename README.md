@@ -1,0 +1,2 @@
+# Network Monitor Plus
+ NetworkMonitorPlus is a powerful Python-based tool for monitoring and analyzing network traffic in real-time. It captures packet data, provides detailed statistics, allows exporting captured packets to CSV or PCAP formats, and supports packet replay. Additionally, it offers features like generating network maps, viewing historical data, and monitoring network performance metrics. This tool is ideal for network administrators and enthusiasts looking to gain insights into network traffic and troubleshoot network issues.
